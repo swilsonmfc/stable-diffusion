@@ -1,5 +1,10 @@
 # Stable Diffusion
 A repo of notes, notebooks and models leading to stable diffusion
+* Presentation Overview - https://github.com/swilsonmfc/stable-diffusion/blob/main/StableDiffusion.pptx
+* Notebooks
+ * AutoEncoder 
+ * VariationalAutoEncoder
+ * GAN
 
 ## Additional Resources:
 * AutoEncoder / VariationalAutoEncoder
